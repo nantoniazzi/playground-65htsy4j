@@ -6,7 +6,7 @@ This Java template lets you get started quickly with a simple one-page playgroun
 // { autofold
 public class Main {
 
-public static void main(String[] args) {
+public static void main( String[] args) {
 // }
 
 String message = "Hello World!";
